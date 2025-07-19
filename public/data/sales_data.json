@@ -1,0 +1,962 @@
+[
+    {
+        "continent": "America",
+        "units_sold": 1464,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 1326,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 1212,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 2739,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 1811,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "America",
+        "units_sold": 2529,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "America",
+        "units_sold": 1212,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 2359,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 2706,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "America",
+        "units_sold": 1580,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "America",
+        "units_sold": 2233,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 2883,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 1448,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 2395,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 1162,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "America",
+        "units_sold": 2346,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "America",
+        "units_sold": 2054,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 2492,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 1798,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "America",
+        "units_sold": 1164,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "America",
+        "units_sold": 1758,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 2491,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 2793,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 1428,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 1826,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "America",
+        "units_sold": 2190,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    },
+    {
+        "continent": "America",
+        "units_sold": 2359,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "America",
+        "units_sold": 1879,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "America",
+        "units_sold": 1089,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "America",
+        "units_sold": 1156,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2757,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1301,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2900,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2087,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2183,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1286,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2648,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1860,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1481,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2227,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2582,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2439,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1594,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2878,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1100,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1557,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2565,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2760,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1379,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1745,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1145,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2001,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1858,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1481,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2439,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1994,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1212,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1872,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 2031,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "Asia",
+        "units_sold": 1797,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2623,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1334,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1853,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1118,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2646,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2341,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2506,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1473,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1430,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2010,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2991,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1663,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2489,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1772,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1077,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1692,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1105,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1972,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2211,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1128,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1304,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1196,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2522,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1476,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1276,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1376,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1575,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 1349,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2807,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "Australia",
+        "units_sold": 2525,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2381,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1355,
+        "year": 2017,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1946,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2382,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2239,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2483,
+        "year": 2016,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1177,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2491,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1775,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 3
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2923,
+        "year": 2015,
+        "sku": 2945,
+        "product_name": "B",
+        "quarter": 4
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2683,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2659,
+        "year": 2017,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2931,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2891,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2291,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1092,
+        "year": 2016,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2366,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2100,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1946,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 3
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2603,
+        "year": 2015,
+        "sku": 1752,
+        "product_name": "A",
+        "quarter": 4
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2196,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2954,
+        "year": 2017,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1895,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2234,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2786,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1847,
+        "year": 2016,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2722,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 1
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 2108,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 2
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1327,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 3
+    },
+    {
+        "continent": "Europe",
+        "units_sold": 1075,
+        "year": 2015,
+        "sku": 1539,
+        "product_name": "C",
+        "quarter": 4
+    }
+]

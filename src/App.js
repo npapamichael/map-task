@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
+import Home from "./Home";
+import ProductAverage from "./ProductAvg";
+import ContinentAverage from "./ContinentAvg";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="app-container">
+        <h1 className="app-title">Sales Dashboard</h1>
+        <nav className="app-nav">
+          <NavLink to="/" className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}>Home</NavLink>
+          <NavLink to="/product-average" className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}>Avg by Product</NavLink>
+          <NavLink to="/continent-average" className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}>Avg by Continent</NavLink>
+        </nav>
+
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/product-average" element={<ProductAverage />} />
+          <Route path="/continent-average" element={<ContinentAverage />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
