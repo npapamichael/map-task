@@ -2,12 +2,15 @@ import java.io.*;
 import java.sql.*;
 
 public class mysql {
+
+    //DB connection details
     public static void main(String[] args) {
         String jdbcURL = "jdbc:mysql://localhost:3306/map_task";
         String username = "root";
         String password = "map1234";
         String csvPath = "public/data/sales_long.csv";
 
+        // Establish connection and read CSV
         try (Connection conn = DriverManager.getConnection(jdbcURL, username, password)) {
             conn.setAutoCommit(false);
             BufferedReader reader = new BufferedReader(new FileReader(csvPath));
@@ -24,12 +27,12 @@ public class mysql {
                 String continent = v[4].trim();
                 int units = Integer.parseInt(v[5].trim());
 
-                // Insert product (once)
+                // Insert product once
                 PreparedStatement p1 = conn.prepareStatement(
                     "INSERT IGNORE INTO products (sku, name) VALUES (?, ?)");
                 p1.setInt(1, sku); p1.setString(2, name); p1.executeUpdate(); p1.close();
 
-                // Insert time (once) and get ID
+                // Insert time once and get ID
                 PreparedStatement t1 = conn.prepareStatement(
                     "INSERT IGNORE INTO time_periods (quarter, year) VALUES (?, ?)");
                 t1.setInt(1, quarter); t1.setInt(2, year); t1.executeUpdate(); t1.close();
@@ -40,7 +43,7 @@ public class mysql {
                 ResultSet r1 = t2.executeQuery(); r1.next(); int timeId = r1.getInt(1);
                 t2.close(); r1.close();
 
-                // Insert continent (once) and get ID
+                // Insert continent once and get ID
                 PreparedStatement c1 = conn.prepareStatement(
                     "INSERT IGNORE INTO continents (name) VALUES (?)");
                 c1.setString(1, continent); c1.executeUpdate(); c1.close();

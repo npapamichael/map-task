@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Bar } from "react-chartjs-2";
+import { Bar } from "react-chartjs-2"; //React Chart.js library
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -8,10 +8,11 @@ import {
   Title,
   Tooltip,
   Legend,
-} from "chart.js";
+} from "chart.js"; //Necessary Chart.js components
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
+// Helper function to calculate averages per quarter
 function computeAverageByQuarter(data, continent) {
   const quarters = [1, 2, 3, 4];
   const averages = {};
@@ -75,7 +76,7 @@ export default function ContinentAverage() {
           value={selectedContinent}
           onChange={(e) => setSelectedContinent(e.target.value)}
         >
-          <option value="">--Choose--</option>
+          <option value="">Please Select</option>
           {continents.map((continent, idx) => (
             <option key={idx} value={continent}>
               {continent}
