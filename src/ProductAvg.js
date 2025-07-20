@@ -17,6 +17,7 @@ function computeAverageByQuarter(data, product) {
   const quarters = [1, 2, 3, 4];
   const averages = {};
 
+  // Loop through each quarter
   quarters.forEach((q) => {
     const filtered = data.filter(
       (item) => item.product_name === product && item.quarter === q
@@ -31,6 +32,7 @@ function computeAverageByQuarter(data, product) {
   return averages;
 }
 
+// States and component to display average sales by continent
 export default function ProductAverage() {
   const [salesData, setSalesData] = useState([]);
   const [products, setProducts] = useState([]);
@@ -70,6 +72,7 @@ export default function ProductAverage() {
   return (
     <div>
       <h2>Average Sales by Product</h2>
+      {/* Dropdown for continent selection */}
       <label>
         Select Product:{" "}
         <select value={selectedProduct} onChange={(e) => setSelectedProduct(e.target.value)}>
@@ -82,6 +85,7 @@ export default function ProductAverage() {
         </select>
       </label>
 
+      {/* Render chart */}
       {chartData ? (
         <Bar
           data={chartData}

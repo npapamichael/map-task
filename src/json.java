@@ -41,7 +41,7 @@ public class json {
 
             // Save to file
             try (FileWriter file = new FileWriter("sales_data.json")) {
-                file.write(jsonArray.toString(4)); // Pretty print with indent = 4
+                file.write(jsonArray.toString(4)); 
                 System.out.println("Data successfully written to sales_data.json");
             } catch (IOException e) {
                 System.out.println("Error writing to file: " + e.getMessage());
